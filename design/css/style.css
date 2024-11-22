@@ -35,7 +35,7 @@ h2{
 h3{
     font-size: 20px;
     padding: 4px 0 4px 16px;
-    border-left: 8px solid#212121;
+    border-left: 8px solid#9cb4ea;
 }
 /********************
 * コンテンツ
@@ -74,6 +74,7 @@ h3{
 
 .my-name{
     font-size: 24px;
+    font-weight: bold;
     text-align: center;
     margin: 40px 0;
 }
